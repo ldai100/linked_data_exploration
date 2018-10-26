@@ -34,3 +34,7 @@ Go to tsconfig.app.json into paths add the following data : "paths": {
       "https": ["node_modules/@angular/http"],
       "stream": ["node_modules/jszip/dist/jszip.min.js"]
     }
+
+# linked_data_exploration
+
+get myself familiarize with linked data concept and solid application.
